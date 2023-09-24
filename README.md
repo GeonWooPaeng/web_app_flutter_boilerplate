@@ -1,2 +1,2 @@
-# web_app_flutter_boilerplate
-Make boilerplate web/app with flutter 
+# webview_flutter_boilerplate
+Make boilerplate webview with flutter 
